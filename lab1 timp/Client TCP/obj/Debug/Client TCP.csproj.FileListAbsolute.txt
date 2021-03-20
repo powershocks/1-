@@ -1,0 +1,7 @@
+C:\Users\Даниил\source\repos\lab1 timp\Client TCP\bin\Debug\Client TCP.exe.config
+C:\Users\Даниил\source\repos\lab1 timp\Client TCP\bin\Debug\Client TCP.exe
+C:\Users\Даниил\source\repos\lab1 timp\Client TCP\bin\Debug\Client TCP.pdb
+C:\Users\Даниил\source\repos\lab1 timp\Client TCP\obj\Debug\Client TCP.csprojAssemblyReference.cache
+C:\Users\Даниил\source\repos\lab1 timp\Client TCP\obj\Debug\Client TCP.csproj.CoreCompileInputs.cache
+C:\Users\Даниил\source\repos\lab1 timp\Client TCP\obj\Debug\Client TCP.exe
+C:\Users\Даниил\source\repos\lab1 timp\Client TCP\obj\Debug\Client TCP.pdb

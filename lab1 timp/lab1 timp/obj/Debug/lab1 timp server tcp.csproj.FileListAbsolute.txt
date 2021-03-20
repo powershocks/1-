@@ -1,0 +1,7 @@
+C:\Users\Даниил\source\repos\lab1 timp\lab1 timp\bin\Debug\lab1 timp.exe.config
+C:\Users\Даниил\source\repos\lab1 timp\lab1 timp\bin\Debug\lab1 timp.exe
+C:\Users\Даниил\source\repos\lab1 timp\lab1 timp\bin\Debug\lab1 timp.pdb
+C:\Users\Даниил\source\repos\lab1 timp\lab1 timp\obj\Debug\lab1 timp server tcp.csproj.CoreCompileInputs.cache
+C:\Users\Даниил\source\repos\lab1 timp\lab1 timp\obj\Debug\lab1 timp.exe
+C:\Users\Даниил\source\repos\lab1 timp\lab1 timp\obj\Debug\lab1 timp.pdb
+C:\Users\Даниил\source\repos\lab1 timp\lab1 timp\obj\Debug\lab1 timp server tcp.csprojAssemblyReference.cache
